@@ -9,6 +9,10 @@ def arguments():
         prog="reco", description="not the best reconnaissance tool, but it is a reconnaissance tool"
     )
     parser.add_argument(
+        "--url",
+        help="the addy", # todo: implement lookup so we can use ip and crt.sh works
+    )
+    parser.add_argument(
         "--domain",
         help="get subdomains",
         default="false",
