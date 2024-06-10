@@ -3,7 +3,6 @@ import argparse
 from reco.core.config import Config
 from reco.core.runner import Runner
 
-
 def arguments():
     parser = argparse.ArgumentParser(
         prog="reco", description="not the best reconnaissance tool, but it is a reconnaissance tool"
