@@ -1,2 +1,2 @@
 # reco
-not the best reconnaissance tools, but they are reconnaissance tools
+not the best reconnaissance tool, but it is a reconnaissance tool
