@@ -11,6 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Erfan Samandarian",
     author_email="mail@erfansamandarian.com",
+    url="https://erfansamandarian.com/soundbook",
     license="MIT",
     version="1.0.1",
     packages=find_packages(),
