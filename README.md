@@ -58,6 +58,12 @@ pip install .
 pip install orcan
 ```
 
+or, if you need to
+
+```
+pip install orcan --break-system-packages
+```
+
 # usage
 
 ```
