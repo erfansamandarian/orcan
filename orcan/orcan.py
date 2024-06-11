@@ -1,7 +1,7 @@
 import argparse
 
-from reco.core.config import Config
-from reco.core.runner import Runner
+from orcan.core.config import Config
+from orcan.core.runner import Runner
 
 def arguments():
     parser = argparse.ArgumentParser(
