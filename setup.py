@@ -13,7 +13,7 @@ setup(
     author_email="mail@erfansamandarian.com",
     url="https://erfansamandarian.com/soundbook",
     license="MIT",
-    version="1.0.1",
+    version="0.0.2",
     packages=find_packages(),
     install_requires=["requests", "tabulate", "termcolor"],
     py_modules=["orcan"],
